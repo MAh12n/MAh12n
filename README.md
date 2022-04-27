@@ -1,0 +1,3 @@
+- 👋 hello world, I’m @MAh12n
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning basic coding
